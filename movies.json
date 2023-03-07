@@ -1,0 +1,789 @@
+{
+  "movies": [
+    {
+      "name": "Blak Panther",
+      "genre": "Action"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Deth note",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+},
+
+
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+        {
+      "name": "Blak Panther",
+      "genre": "Action"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+},
+
+
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Blak Panther",
+      "genre": "Action"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+},
+
+
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Blak Panther",
+      "genre": "Action"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+},
+
+
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Blak Panther",
+      "genre": "Action"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+},
+
+
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "Goodfellas",
+      "genre": "Crime"
+    },
+    
+    {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama"
+    },
+    {
+      "name": "The Godfather",
+      "genre": "Crime"
+    },
+    {
+      "name": "The Dark Knight",
+      "genre": "Action"
+    },
+    {
+      "name": "Schindler's List",
+      "genre": "Drama"
+    },
+    {
+      "name": "Forrest Gump",
+      "genre": "Drama"
+    },
+    {
+      "name": "Inception",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "genre": "Sci-Fi"
+    },
+    {
+      "name": "The Matrix",
+      "genre": "Sci-Fi"
+    }
+
+
+
+
+
+  ]
+}

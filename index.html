@@ -1,0 +1,125 @@
+<!-- HTML tags to display movie data -->
+<html>
+<h1>Movies</h1>
+<div id="movieList"></div>
+
+<style>
+  /* Style for movie list container */
+  #movieList {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  /* Style for movie items */
+  .movieItem {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for movie name */
+  .movieName {
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+  
+  /* Style for movie genre */
+  .movieGenre {
+    font-size: 16px;
+    color: #999;
+  }
+  
+  /* Style for hover effect */
+  .movieItem:hover {
+    background-color: #eee;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* Style for active effect */
+  .movieItem:active {
+    transform: scale(0.95);
+
+  }
+  
+  /* Style for responsive design */
+  @media only screen and (max-width: 600px) {
+    .movieItem {
+      padding: 10px;
+    }
+    
+    .movieName {
+      font-size: 20px;
+    }
+    
+    .movieGenre {
+      font-size: 14px;
+    }
+  }
+  
+  /* Extra styles for colorful design */
+  .movieItem:nth-child(odd) {
+    background-color: #FFE1E6;
+  }
+  
+  .movieItem:nth-child(even) {
+    background-color: #B2EBF2;
+  }
+  
+  .movieName {
+    color: #1A237E;
+    text-shadow: none;
+  }
+  .movieName:hover{
+      color: red;
+      font-size: 25px;
+      
+  }
+  
+  .movieGenre {
+    color: #37474F;
+  }
+</style>
+
+<script>
+  // Fetch JSON data
+  fetch('movies.json')
+    .then(response => response.json())
+    .then(data => {
+      // Get movie list element
+      const movieList = document.querySelector('#movieList');
+      
+      // Loop through movie data and create list items
+      data.movies.forEach(movie => {
+        // Create movie item
+        const movieItem = document.createElement('div');
+        movieItem.classList.add('movieItem');
+        
+        // Set movie name and genre as text content of h1 and p tags
+        const name = document.createElement('div');
+        name.classList.add('movieName');
+        name.textContent = movie.name;
+        
+        const genre = document.createElement('div');
+        genre.classList.add('movieGenre');
+        genre.textContent = movie.genre;
+        
+        // Append h1 and p tags to movie item
+        movieItem.appendChild(name);
+        movieItem.appendChild(genre);
+        
+        // Append movie item to movie list
+        movieList.appendChild(movieItem);
+      });
+    })
+    .catch(error => console.error(error));
+</script>
+
+</html>
